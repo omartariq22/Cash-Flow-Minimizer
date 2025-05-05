@@ -1,0 +1,9 @@
+﻿  debt_manager.cpp
+C:\Users\amoor\Downloads\Cash-flow-minimizer\Cash-flow-minimizer\debt_manager.cpp(13,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amoor\Downloads\Cash-flow-minimizer\Cash-flow-minimizer\debt_manager.cpp(19,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amoor\Downloads\Cash-flow-minimizer\Cash-flow-minimizer\debt_manager.cpp(33,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amoor\Downloads\Cash-flow-minimizer\Cash-flow-minimizer\debt_manager.cpp(47,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amoor\Downloads\Cash-flow-minimizer\Cash-flow-minimizer\debt_manager.cpp(55,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Cash-flow-minimizer.vcxproj -> C:\Users\amoor\Downloads\Cash-flow-minimizer\x64\Debug\Cash-flow-minimizer.exe
